@@ -1,6 +1,8 @@
 ## Building
 
-Fetch required node modules using yarn https://yarnpkg.com/en/docs/install:
+You'll need node and npm and yarn https://yarnpkg.com/en/docs/install
+
+Install the node modules:
 
 `yarn install`
 
