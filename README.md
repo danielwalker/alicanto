@@ -1,5 +1,9 @@
 ## Building
 
+Fetch required node modules using yarn `https://yarnpkg.com/en/docs/install`:
+
+`yarn install`
+
 Install Ionic:
 
 `npm install -g cordova ionic`
