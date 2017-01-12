@@ -1,6 +1,6 @@
 ## Building
 
-Fetch required node modules using yarn `https://yarnpkg.com/en/docs/install`:
+Fetch required node modules using yarn https://yarnpkg.com/en/docs/install:
 
 `yarn install`
 
