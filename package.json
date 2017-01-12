@@ -1,0 +1,52 @@
+{
+  "name": "alicanto",
+  "description": "alicanto: An Ionic project",
+  "author": "Dan Walker",
+  "homepage": "http://ionicframework.com/",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "clean": "ionic-app-scripts clean",
+    "build": "ionic-app-scripts build",
+    "ionic:build": "ionic-app-scripts build",
+    "ionic:serve": "ionic-app-scripts serve"
+  },
+  "dependencies": {
+    "@angular/common": "2.2.1",
+    "@angular/compiler": "2.2.1",
+    "@angular/compiler-cli": "2.2.1",
+    "@angular/core": "2.2.1",
+    "@angular/forms": "2.2.1",
+    "@angular/http": "2.2.1",
+    "@angular/platform-browser": "2.2.1",
+    "@angular/platform-browser-dynamic": "2.2.1",
+    "@angular/platform-server": "2.2.1",
+    "@ionic/storage": "1.1.7",
+    "@types/moment": "^2.13.0",
+    "@types/winston": "^2.2.0",
+    "chrome-net": "^3.3.0",
+    "chrome-socket": "^0.0.1",
+    "events": "^1.1.1",
+    "ionic-angular": "2.0.0-rc.5",
+    "ionic-native": "2.2.11",
+    "ionicons": "3.0.0",
+    "jspack": "^0.0.4",
+    "moment": "^2.17.1",
+    "net": "^1.0.2",
+    "rxjs": "5.0.0-beta.12",
+    "sw-toolbox": "3.4.0",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3",
+    "winston": "^2.3.0",
+    "zone.js": "0.6.26"
+  },
+  "devDependencies": {
+    "@ionic/app-scripts": "1.0.0",
+    "electron": "^1.4.1",
+    "typescript": "2.0.9"
+  },
+  "main": "electron.js",
+  "config": {
+    "ionic_webpack": "./webpack.config.js"
+  }
+}
