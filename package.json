@@ -31,7 +31,7 @@
     "ionic-native": "2.2.11",
     "ionicons": "3.0.0",
     "jspack": "^0.0.4",
-    "moment": "^2.17.1",
+    "moment": "^2.19.3",
     "net": "^1.0.2",
     "rxjs": "5.0.0-beta.12",
     "sw-toolbox": "3.4.0",
